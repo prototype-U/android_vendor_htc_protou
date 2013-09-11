@@ -36,11 +36,9 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/protou/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/htc/protou/proprietary/lib/libOlaEngineNew.so:system/lib/libOlaEngineNew.so \
-    vendor/htc/protou/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/htc/protou/proprietary/lib/libOmxH264Dec.so:system/lib/libOmxH264Dec.so \
     vendor/htc/protou/proprietary/lib/libchromatix_ov5693_default_video.so:system/lib/libchromatix_ov5693_default_video.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
-    vendor/htc/protou/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
     vendor/htc/protou/proprietary/lib/libgsl.so:system/lib/libgsl.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
     vendor/htc/protou/proprietary/lib/libmmstillomx.so:system/lib/libmmstillomx.so \
@@ -61,8 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libchromatix_s5k4e5yx_hdr.so:system/lib/libchromatix_s5k4e5yx_hdr.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
     vendor/htc/protou/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
-    vendor/htc/protou/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.msm7627a.so \ # fixed name
-    vendor/htc/protou/proprietary/lib/hw/camera.default.so:system/lib/hw/camera.msm7627a.so \ # fixes name
+    vendor/htc/protou/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7627a.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/htc/protou/proprietary/lib/libchromatix_s5k4e5yx_preview.so:system/lib/libchromatix_s5k4e5yx_preview.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so \
@@ -70,4 +67,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/protou/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
     vendor/htc/protou/proprietary/lib/libchromatix_ov5693_hdr.so:system/lib/libchromatix_ov5693_hdr.so \
-    vendor/htc/protou/proprietary/lib/libmmipl.so:system/lib/libmmipl.so
+    vendor/htc/protou/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+    vendor/htc/protou/proprietary/lib/hw/sensors.msm7627a.so:system/lib/hw/sensors.msm7627a.so 
