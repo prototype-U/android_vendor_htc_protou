@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/htc/protou/proprietary/bin/awb_camera:system/bin/awb_camera \
     vendor/htc/protou/proprietary/bin/mm-vdec-omx-test:system/bin/mm-vdec-omx-test \
-    vendor/htc/protou/proprietary/bin/mm-jpeg-enc-test:system/bin/mm-jpeg-enc-test \
     vendor/htc/protou/proprietary/bin/cand:system/bin/cand \
     vendor/htc/protou/proprietary/bin/lsc_camera:system/bin/lsc_camera \
     vendor/htc/protou/proprietary/bin/RescueStarter:system/bin/RescueStarter \
