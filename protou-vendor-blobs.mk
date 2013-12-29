@@ -116,7 +116,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
     vendor/htc/protou/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/htc/protou/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
-    vendor/htc/protou/proprietary/lib/libgemini.so:system/lib/libgemini.so \
     vendor/htc/protou/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
     vendor/htc/protou/proprietary/lib/libOlaEngineNew.so:system/lib/libOlaEngineNew.so \
     vendor/htc/protou/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
