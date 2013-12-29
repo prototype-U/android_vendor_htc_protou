@@ -109,7 +109,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libhtccamera.so:system/lib/libhtccamera.so \
     vendor/htc/protou/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/htc/protou/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
-  	vendor/htc/protou/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+    vendor/htc/protou/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
     vendor/htc/protou/proprietary/lib/libOmxMpeg4Dec.so:system/lib/libOmxMpeg4Dec.so \
     vendor/htc/protou/proprietary/lib/libOmxVidEnc.so:system/lib/libOmxVidEnc.so \
     vendor/htc/protou/proprietary/lib/libchromatix_ov5693_preview.so:system/lib/libchromatix_ov5693_preview.so \
@@ -167,7 +167,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
     vendor/htc/protou/proprietary/lib/libchromatix_ov5693_hdr.so:system/lib/libchromatix_ov5693_hdr.so \
     vendor/htc/protou/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
-	vendor/htc/protou/proprietary/lib/egl/.DS_Store:system/lib/egl/.DS_Store \
+    vendor/htc/protou/proprietary/lib/egl/.DS_Store:system/lib/egl/.DS_Store \
     vendor/htc/protou/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/htc/protou/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
     vendor/htc/protou/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
@@ -175,7 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
     vendor/htc/protou/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/protou/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-	vendor/htc/protou/proprietary/etc/firmware/.DS_Store:system/etc/firmware/.DS_Store \
+    vendor/htc/protou/proprietary/etc/firmware/.DS_Store:system/etc/firmware/.DS_Store \
     vendor/htc/protou/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
     vendor/htc/protou/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
     vendor/htc/protou/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
