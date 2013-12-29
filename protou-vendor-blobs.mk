@@ -134,13 +134,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/protou/proprietary/lib/libDxOAF.so:system/lib/libDxOAF.so \
     vendor/htc/protou/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
     vendor/htc/protou/proprietary/lib/libhtc_acoustic.so:system/lib/libhtc_acoustic.so \
-    vendor/htc/protou/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
-    vendor/htc/protou/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
-    vendor/htc/protou/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
-    vendor/htc/protou/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
-    vendor/htc/protou/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
-    vendor/htc/protou/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
-    vendor/htc/protou/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/htc/protou/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/htc/protou/proprietary/lib/libchromatix_s5k4e5yx_default_video.so:system/lib/libchromatix_s5k4e5yx_default_video.so \
     vendor/htc/protou/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
